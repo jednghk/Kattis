@@ -1,3 +1,4 @@
+# https://open.kattis.com/problems/speedlimit
 # while true, if not -1, check next n lines
 # for each line split, convert to integer,
 # take second num and subtract from prev num,
